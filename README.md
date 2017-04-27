@@ -1,4 +1,7 @@
-# api documentation for  [autobahn (v0.12.0)](https://github.com/crossbario/autobahn-js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-autobahn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-autobahn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-autobahn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-autobahn)
+# npmdoc-autobahn
+
+#### basic api documentation for  [autobahn (v0.12.0)](https://github.com/crossbario/autobahn-js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-autobahn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-autobahn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-autobahn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-autobahn)
+
 #### An implementation of The Web Application Messaging Protocol (WAMP).
 
 [![NPM](https://nodei.co/npm/autobahn.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/autobahn)
@@ -84,7 +87,8 @@
     "scripts": {
         "test": "nodeunit test/test.js"
     },
-    "version": "0.12.0"
+    "version": "0.12.0",
+    "bin": {}
 }
 ```
 
